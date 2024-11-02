@@ -1,0 +1,9 @@
+[package]
+name = "game-of-life"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14.2"
+bevy_render = "0.14.2"
+float-cmp = "0.10.0"
